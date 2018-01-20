@@ -1,5 +1,8 @@
 # robotics-hw0
 
+robotics-hw0/images.jpeg
+
+<img src="images.jpeg" alt="Robot">
 
 ## Sensing
 The robot most likely uses GPS coordinates to determine its current location.
