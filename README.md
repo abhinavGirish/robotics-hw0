@@ -1,7 +1,5 @@
 # robotics-hw0
 
-robotics-hw0/images.jpeg
-
 <img src="images.jpeg" alt="Robot">
 
 ## Sensing
